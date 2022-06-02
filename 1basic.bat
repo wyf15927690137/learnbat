@@ -7,4 +7,3 @@ echo ---------------
 echo %0
 echo %~dp0
 echo ---------------
-python ../learnpy/14stringmethod.py
